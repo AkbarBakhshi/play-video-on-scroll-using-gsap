@@ -1,8 +1,6 @@
 # Quick Start Guide
 
-This repo includes the code for the video on adding a debug gui for faster development with ThreeJS library. Below is the link to the Youtube video:
-
-https://youtu.be/0thkPzO29AY
+This repo includes the starter code for the video on playing video using GreenSock's scrollTrigger. Check out the final branch to find a link to the YouTube video.
 
 Download or clone the project on your local drive. Open Terminal (Command prompt) and navigate to the project folder. Then run ```npm install```. You should see a new folder called **node_modules** in the project folder.
 
