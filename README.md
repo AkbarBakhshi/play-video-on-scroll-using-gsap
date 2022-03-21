@@ -1,6 +1,9 @@
 # Quick Start Guide
 
-This repo includes the starter code for the video on playing video using GreenSock's scrollTrigger. Check out the final branch to find a link to the YouTube video.
+This repo includes the **starter** code for the video on playing video and image sequences using GreenSock's scrollTrigger. Here is the link to the Youtube video:
+
+https://youtu.be/mbWVqS-aCy4
+
 
 Download or clone the project on your local drive. Open Terminal (Command prompt) and navigate to the project folder. Then run ```npm install```. You should see a new folder called **node_modules** in the project folder.
 

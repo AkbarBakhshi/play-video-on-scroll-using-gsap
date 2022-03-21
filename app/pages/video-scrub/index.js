@@ -6,7 +6,6 @@ gsap.registerPlugin(ScrollTrigger)
 
 export default class VideoScrub{
     constructor() {
-        this.setupScrollAnimation()
     }
     create() {
     }
@@ -15,10 +14,6 @@ export default class VideoScrub{
     }
 
     animateOut() {
-    }
-
-    setupScrollAnimation() {
-
     }
 
 }
